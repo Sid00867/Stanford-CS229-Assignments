@@ -1,0 +1,2 @@
+# Cocktail-Party-Problem
+ Cocktail Party Problem – ICA Implementation (CS229 Assignment)  This repository contains my implementation of the Cocktail Party Problem using Independent Component Analysis (ICA), completed as part of the Stanford CS229 (Machine Learning) course assignment.  The Cocktail Party Problem is a classic signal processing challenge:  Given multiple audio recordings of overlapping voices (mixed signals), recover the original independent source signals.
